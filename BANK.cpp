@@ -7,6 +7,7 @@ int main()
 	if(language == 1)
 	{
 	 	printf("WELCOME TO SBI BANK\n");
+	//tyr7tfywqgwiuetywrefru
      	printf("PLEASE INSERT THE ATM CARD");
 	    printf("\nTHANK YOU FOR YOUR PATIENCE");
 	    
